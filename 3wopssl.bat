@@ -1,0 +1,1 @@
+"C:\Program Files\Git\mingw64\bin"\openssl.exe req -new -config server.cnf -key server-key.pem -out server-csr.pem

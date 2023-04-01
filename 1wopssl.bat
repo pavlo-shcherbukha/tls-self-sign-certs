@@ -1,0 +1,1 @@
+"C:\Program Files\Git\mingw64\bin"\openssl.exe req -new -x509 -days 9999 -config ca.cnf -keyout ca-key.pem -out ca-crt.pem
