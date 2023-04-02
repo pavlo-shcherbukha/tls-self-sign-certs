@@ -1,0 +1,1 @@
+"C:\Program Files\Git\mingw64\bin"\openssl.exe genrsa -out server-key.pem 4096
