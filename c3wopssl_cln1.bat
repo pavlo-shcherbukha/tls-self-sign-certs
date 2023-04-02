@@ -1,0 +1,1 @@
+"C:\Program Files\Git\mingw64\bin"\openssl.exe x509 -req -extfile client1.cnf -days 999 -passin "pass:password" -in client1-csr.pem -CA ca-crt.pem -CAkey ca-key.pem -CAcreateserial -out client1-crt.pem
